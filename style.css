@@ -6,12 +6,13 @@
 body{
     font-family: "Poppins", sans-serif;
 }
-h1{
+h2{
     font-family: "Oswald", sans-serif;
+    color: #fff;
 }
 
 section{
-    background-color: #d24900;
+    background-color: #222831;
 }
 .header{
     padding-top: 30px;
@@ -57,11 +58,11 @@ section{
 }
 button {
     background-color: aqua;
-    color:#fff;
+    color:#000000;
     padding: 7px 15px 7px 15px;
     border: none;
     cursor: pointer;
     border-radius: 10px;
-    font-weight: 700;
+    font-weight: 1000;
 
 }
